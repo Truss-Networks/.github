@@ -1,3 +1,45 @@
+/* Public README for Truss Networks on Github */
+
+/* Header styling */
+h1 {
+  color: orange;
+}
+
+/* Mission and About sections */
+p {
+  color: orange;
+}
+
+/* Key Features section */
+h2 {
+  color: orange;
+}
+
+ul {
+  color: orange;
+}
+
+/* Getting Started section */
+h3 {
+  color: orange;
+}
+
+/* Why Truss Networks section */
+h4 {
+  color: orange;
+}
+
+/* Support section */
+h5 {
+  color: orange;
+}
+
+/* Contact info */
+a {
+  color: orange;
+}
+
+
 **Truss Networks**
 
 *Welcome to the Truss Networks GitHub Repository! 🚀*
