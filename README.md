@@ -1,4 +1,4 @@
-.Truss Networks
+Truss Networks
 
 Welcome to Truss Networks! 🚀
 
