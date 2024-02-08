@@ -32,6 +32,9 @@ Diva is your personal networking concierge, available 24/7 to assist you in expa
 
 Interact with Diva via voice or text conversations:
 
+If you're using the chat interface, simply type *"@Diva"* to activate Diva.
+If you prefer voice commands, say *"Hey Diva"* to activate voice mode.
+
 "Diva, connect me with 3 potential CTO candidates from Europe."
 
 "Who are some investors I should meet in the Nairobi area?"
