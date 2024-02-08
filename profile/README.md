@@ -1,6 +1,6 @@
 **Truss Networks**
 
-**Welcome to the Truss Networks GitHub Repository! 🚀**
+**Welcome to the Truss Networks GitHub Repository! 🚀*
 
 Truss Networks is a forward-thinking social media platform driven by artificial intelligence, transforming the landscape of professional networking. This repository serves as a central hub for developers, contributors, and enthusiasts interested in exploring, contributing, and collaborating on the Truss Networks project.
 
@@ -18,21 +18,24 @@ Diva is your personal networking concierge, available 24/7 to assist you in expa
 
 **Key Features**
 
-Profile Analysis: Diva deeply understands your professional profile, goals, and networking priorities based on your conversations and activity over time.
+**Profile Analysis:* Diva deeply understands your professional profile, goals, and networking priorities based on your conversations and activity over time.
 
-Personalized Recommendations: She suggests new connections tailored to your needs and vetted for compatibility, amplifying your reach while ensuring relevance.
+**Personalized Recommendations:* She suggests new connections tailored to your needs and vetted for compatibility, amplifying your reach while ensuring relevance.
 
-Relationship Management: Diva nurtures relationships on auto-pilot via periodic check-ins, prompts for stalled conversations, scheduled meetings, and thoughtful updates.
+**Relationship Management:* Diva nurtures relationships on auto-pilot via periodic check-ins, prompts for stalled conversations, scheduled meetings, and thoughtful updates.
 
-Ongoing Reporting: You receive weekly reports analyzing your network health, trends, and optimization opportunities to inform networking strategy.
+**Ongoing Reporting:* You receive weekly reports analyzing your network health, trends, and optimization opportunities to inform networking strategy.
 
 **Getting Started**
 
 Interact with Diva via voice or text conversations:
 
 "Diva, connect me with 3 potential CTO candidates from Europe."
+
 "Who are some investors I should meet in the Nairobi area?"
+
 "Schedule 30-minute intro calls with my top 5 profile matches."
+
 
 **Why Truss Networks?**
 
@@ -42,4 +45,4 @@ She handles the heavy-lifting of networking outreach so you can focus on having 
 
 **Support**
 
-If you encounter any issues or have any questions about Diva or Truss Networks, please don't hesitate to contact our support team. We're here to help!
+If you encounter any issues or have any questions about Diva or Truss Networks, please don't hesitate to contact our support team at. We're here to help!
