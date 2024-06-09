@@ -88,4 +88,3 @@ If you have any questions or need further assistance, feel free to contact us:
 - **Twitter:** [@TrussNetwork](https://twitter.com/TrussNetwork)
 ```
 
-Feel free to copy and paste this into your `README.md` file for your repositories within the Truss Network project!
