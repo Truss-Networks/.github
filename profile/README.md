@@ -1,54 +1,91 @@
 
 
-**Truss Networks**
+# Truss Network
 
-*Welcome to the Truss Networks GitHub Repository! 🚀*
+Welcome to the Truss Network! This repository is part of Truss Network, an AI-powered professional networking platform focused on transparency and community-driven development.
 
-Truss Networks is a forward-thinking social media platform driven by artificial intelligence, transforming the landscape of professional networking. This repository serves as a central hub for developers, contributors, and enthusiasts interested in exploring, contributing, and collaborating on the Truss Networks project.
+## Table of Contents
 
-**About Truss Networks**
+- [Overview](#overview)
+- [Repositories](#repositories)
+- [Getting Started](#getting-started)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
+- [Contact](#contact)
 
-Truss Networks harnesses the power of AI to redefine how professionals connect, network, and foster relationships in the digital age. Our platform is designed to deliver personalized and engaging networking experiences, helping individuals propel their careers and achieve professional success.
+## Overview
 
-**Mission**
+Truss Network is an open-source, AI-powered professional networking platform designed to enhance user engagement and productivity through personalized recommendations, job matching, connection suggestions, and skill development opportunities. Our mission is to build a transparent, community-driven platform that fosters innovation and trust.
 
-Our mission at Truss Networks is to empower professionals to thrive in their careers by providing them with personalized and intelligent networking solutions. We are dedicated to redefining the way individuals connect, collaborate, and grow in their respective industries. Through our flagship product, Diva, we aim to facilitate meaningful connections, foster collaboration, and unlock new opportunities for professional success.
+## Repositories
 
-**About Diva**
+Here are the key repositories within the Truss Network project:
 
-Diva is your personal networking concierge, available 24/7 to assist you in expanding your professional network, identifying relevant career opportunities, and nurturing strategic relationships. With Diva, networking becomes effortless, efficient, and highly personalized.
+1. **Core Platform**
+   - Repository: [truss-network-core](https://github.com/truss-network/truss-network-core)
+   - Description: The core backend services and API for the Truss Network platform.
 
-**Key Features**
+2. **Frontend**
+   - Repository: [truss-network-frontend](https://github.com/truss-network/truss-network-frontend)
+   - Description: The user interface and frontend application for Truss Network.
 
-*Profile Analysis:* Diva deeply understands your professional profile, goals, and networking priorities based on your conversations and activity over time.
+3. **AI Services**
+   - Repository: [truss-network-ai](https://github.com/truss-network/truss-network-ai)
+   - Description: AI and machine learning services powering the recommendation and personalization features.
 
-*Personalized Recommendations:* She suggests new connections tailored to your needs and vetted for compatibility, amplifying your reach while ensuring relevance.
+4. **Data Infrastructure**
+   - Repository: [truss-network-data](https://github.com/truss-network/truss-network-data)
+   - Description: Data management and processing infrastructure for Truss Network.
 
-*Relationship Management:* Diva nurtures relationships on auto-pilot via periodic check-ins, prompts for stalled conversations, scheduled meetings, and thoughtful updates.
+5. **DevOps and CI/CD**
+   - Repository: [truss-network-devops](https://github.com/truss-network/truss-network-devops)
+   - Description: Scripts, configurations, and tools for continuous integration and deployment.
 
-*Ongoing Reporting:* You receive weekly reports analyzing your network health, trends, and optimization opportunities to inform networking strategy.
+## Getting Started
 
-**Getting Started**
+To get started with Truss Network, follow these steps:
 
-Interact with Diva via voice or text conversations:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/truss-network/truss-network-core.git
+   cd truss-network-core
+   ```
 
-If you're using the chat interface, simply type *"@Diva"* to activate Diva.
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
 
-If you prefer voice commands, say *"Hey Diva"* to activate voice mode.
+3. **Run the Application:**
+   ```bash
+   npm start
+   ```
 
-"Diva, connect me with 3 potential CTO candidates from Europe."
+4. **Access the Application:**
+   Open your browser and navigate to `http://localhost:3000` to see the application running locally.
 
-"Who are some investors I should meet in the Nairobi area?"
+For more detailed instructions, please refer to the documentation in each specific repository.
 
-"Schedule 30-minute intro calls with my top 5 profile matches."
+## Contribution Guidelines
 
+We welcome contributions from the community! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to learn about how you can help.
 
-**Why Truss Networks?**
+## Code of Conduct
 
-Career advancement today relies heavily on having a diverse, vibrant professional network. Diva empowers working professionals by providing an AI-powered networking assistant that works behind the scenes to grow and strengthen strategic relationships tailored to your career aspirations.
+Please note that this project is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
-She handles the heavy-lifting of networking outreach so you can focus on having the high-value interactions that actually move the needle. Let Diva accelerate your career advancement through intelligently automated relationship building support 24/7!
+## License
 
-**Support**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-If you encounter any issues or have any questions about Diva or Truss Networks, please don't hesitate to contact our support team at. We're here to help!
+## Contact
+
+If you have any questions or need further assistance, feel free to contact us:
+
+- **Email:** info@mingle549.onmicrosoft.com
+- **Slack:** [Join our Slack Community](https://join.slack.com/t/trussnetwork/shared_invite/abc123)
+- **Twitter:** [@TrussNetwork](https://twitter.com/TrussNetwork)
+```
+
+Feel free to copy and paste this into your `README.md` file for your repositories within the Truss Network project!
