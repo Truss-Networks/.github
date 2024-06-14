@@ -23,7 +23,7 @@ Truss Network is an open-source, AI-powered professional networking platform des
 Here are the key repositories within the Truss Network project:
 
 1. **Core Platform**
-   - Repository: [truss-network-core](https://github.com/Truss-Network/truss-network-core)
+   - Repository: [truss-network-core](https://github.com/Truss-Networks/truss-network-core)
    - Description: The core backend services and API for the Truss Network platform.
 
 2. **Frontend**
