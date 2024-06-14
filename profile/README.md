@@ -23,23 +23,23 @@ Truss Network is an open-source, AI-powered professional networking platform des
 Here are the key repositories within the Truss Network project:
 
 1. **Core Platform**
-   - Repository: [truss-network-core](https://github.com/truss-network/truss-network-core)
+   - Repository: [truss-network-core](https://github.com/Truss-Network/truss-network-core)
    - Description: The core backend services and API for the Truss Network platform.
 
 2. **Frontend**
-   - Repository: [truss-network-frontend](https://github.com/truss-network/truss-network-frontend)
+   - Repository: [truss-network-frontend](https://github.com/Truss-Networks/truss-network-front)
    - Description: The user interface and frontend application for Truss Network.
 
 3. **AI Services**
-   - Repository: [truss-network-ai](https://github.com/truss-network/truss-network-ai)
+   - Repository: [truss-network-ai](https://github.com/Truss-Networks/truss-network-ai)
    - Description: AI and machine learning services powering the recommendation and personalization features.
 
 4. **Data Infrastructure**
-   - Repository: [truss-network-data](https://github.com/truss-network/truss-network-data)
+   - Repository: [truss-network-data](https://github.com/Truss-Networks/truss-network-data)
    - Description: Data management and processing infrastructure for Truss Network.
 
 5. **DevOps and CI/CD**
-   - Repository: [truss-network-devops](https://github.com/truss-network/truss-network-devops)
+   - Repository: [truss-network-devops](https://github.com/Truss-Networks/truss-networks-devops)
    - Description: Scripts, configurations, and tools for continuous integration and deployment.
 
 ## Getting Started
@@ -48,7 +48,7 @@ To get started with Truss Network, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/truss-network/truss-network-core.git
+   git clone https://github.com/Truss-Network/truss-network-core.git
    cd truss-network-core
    ```
 
