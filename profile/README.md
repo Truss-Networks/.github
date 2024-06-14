@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or need further assistance, feel free to contact us:
 
 - **Email:** info@mingle549.onmicrosoft.com
-- **Slack:** [Join our Slack Community](https://join.slack.com/t/trussnetwork/shared_invite/abc123)
-- **Twitter:** [@TrussNetwork](https://twitter.com/TrussNetwork)
+- **Discord:** [Join our Discord Server]https://discord.gg/B4wNRxZt
+
 
 
